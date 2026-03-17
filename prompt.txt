@@ -1,0 +1,75 @@
+Create a fully functional personal portfolio website inspired by the Valorant agent Jett.
+
+Design Requirements:
+- The entire website must follow a LIGHT THEME (important).
+- Use Jett’s color palette: white, light blue, cyan, soft gray tones.
+- The UI should feel airy, fast, and smooth — just like Jett’s personality and abilities.
+- Avoid dark backgrounds completely.
+
+Visual Style:
+- Use soft gradients (white → light blue → cyan).
+- Include subtle wind-like motion effects to match Jett’s wind abilities.
+- Add smooth transitions and animations (no abrupt changes).
+- UI elements should feel lightweight, minimal, and elegant.
+- Rounded edges, glassmorphism (light version), and soft shadows are preferred.
+
+Images & Assets:
+- Use PLACEHOLDERS for all images (IMPORTANT).
+- Clearly label them like:
+  - "Jett hero image placeholder"
+  - "Jett action art placeholder"
+  - "Jett background placeholder"
+- I will replace them later with actual Jett images and artwork.
+- Ensure images are positioned properly (hero section, backgrounds, cards, etc.).
+
+Sections to Include:
+1. Hero Section
+   - Full-width layout with a placeholder for Jett artwork.
+   - Name, title, and a short tagline.
+   - Smooth entrance animation (fade/slide like wind).
+
+2. About Section
+   - Short description with a clean layout.
+   - Include a small placeholder image.
+
+3. Skills Section
+   - Display skills using cards or progress bars.
+   - Add hover animations (smooth scaling/glow).
+
+4. Projects Section
+   - Grid layout with project cards.
+   - Each card should have image placeholder + title + description.
+   - Add hover effects (lift + glow).
+
+5. Contact Section
+   - Simple contact form or social links.
+   - Keep it minimal and clean.
+
+Animations & Interactions:
+- Page load animation should feel like wind flowing from right to left.
+- Smooth scrolling throughout the site.
+- Hover effects should be subtle and fluid.
+- Use easing animations (no sharp or rigid motion).
+- Add micro-interactions (buttons, cards, links).
+
+Technical Requirements:
+- Use HTML, CSS, and JavaScript (or React if preferred).
+- Organize code into proper files/folders (NOT just a single file).
+- Ensure responsive design (mobile + desktop).
+- Use modern CSS (Flexbox/Grid).
+- Optimize for performance.
+
+Folder Structure Example:
+- /assets/placeholders
+- /css
+- /js
+- index.html
+
+Important Notes:
+- Do NOT use dark theme anywhere.
+- Maintain consistency in Jett’s aesthetic across all sections.
+- Focus heavily on smoothness, fluid motion, and clean UI.
+- Use placeholders for all images so I can replace them later.
+
+Goal:
+The final result should feel like a fast, elegant, wind-inspired portfolio that visually represents Jett’s style — light, smooth, and sharp.
